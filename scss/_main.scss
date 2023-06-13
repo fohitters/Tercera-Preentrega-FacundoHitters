@@ -4,6 +4,7 @@ main{
     padding-bottom: 10px;
     .parador{
         margin: 30px 0;
+        border-radius: 2px solid black ;
     }
     .parador img{
         width: 100%;
@@ -12,18 +13,18 @@ main{
         margin: 20px 0;
     }
     .informacion h4{
-        background-color: #046699;
+        background-color: #087bb9;
         color: rgba(255, 255, 255, 0.815);
         padding: 10px;
     }
     .textoanfibia h4{
-        background-color: #046699;
+        background-color: #087bb9;
         color: #D9D9D9;
         margin: 20px 0px;
         padding: 10px;
     }
     .textocarpas h4{
-        background-color: #046699;
+        background-color: #087bb9;
         color: #D9D9D9;
         margin: 20px 0px;
         padding: 10px;
@@ -35,7 +36,7 @@ main{
         height: 40em;
     }
     .textoform{
-        background-color: #046699;
+        background-color: #087bb9;
         color: #D9D9D9;
         margin: 40px 0;
     }
