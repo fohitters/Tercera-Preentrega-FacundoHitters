@@ -88,4 +88,10 @@ body {
   background-color: #D9D9D9;
 }
 
+@media (max-width: 991px) {
+  .amenu {
+    padding: 0px !important;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
